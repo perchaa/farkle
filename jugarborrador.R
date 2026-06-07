@@ -16,7 +16,7 @@ puntaje1 <- 0
 puntaje2 <- 0
 
 ronda <- 0
-
+#prueba borrar <<<<<<
 #¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡TENEMOS QUE VER QUE ITERACION USAMOS!!!!!!!
 ronda <- ronda + 1
 titulo(paste("VAMOS A JUGAR LA RONDA", ronda))
